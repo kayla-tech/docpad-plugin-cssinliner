@@ -24,6 +24,7 @@ docpad install cssinliner
 
 <!-- /INSTALL -->
 
+
 <!-- USAGE/ -->
 
 ## Usage
@@ -74,8 +75,17 @@ These amazing people are maintaining this project:
 
 - Roger Chapman <rogchap(at)gmail.com> (https://github.com/rogchap)
 
+### Sponsors
+
+No sponsors yet! Will you be the first?
+
+
 
 ### Contributors
+
+These amazing people have contributed code to this project:
+
+- [Roger Chapman](https://github.com/rogchap) <rogchap(at)gmail.com> — [view contributions](https://github.com/kayla-tech/docpad-plugin-cssinliner/commits?author=rogchap)
 
 [Become a contributor!](https://github.com/kayla-tech/docpad-plugin-cssinliner/blob/master/CONTRIBUTING.md#files)
 
@@ -86,9 +96,13 @@ These amazing people are maintaining this project:
 
 ## License
 
-Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)
+Unless stated otherwise all works are:
 
-Copyright &copy; Kayla Technologies <sayhi@kayla.com.au> (https://kayla.com.au)
+- Copyright &copy; Kayla Technologies <sayhi@kayla.com.au> (https://kayla.com.au)
+
+and licensed under:
+
+- The incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT License](http://opensource.org/licenses/mit-license.php)
 
 <!-- /LICENSE -->
 
