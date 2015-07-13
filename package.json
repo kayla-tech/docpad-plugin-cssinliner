@@ -1,44 +1,30 @@
 {
-  "name": "docpad-plugin-yourpluginname",
+  "name": "docpad-plugin-cssinliner",
   "version": "2.0.0",
-  "description": "DocPad plugin that adds the ability to render Something to Something Else",
-  "homepage": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname",
+  "description": "DocPad plugin that inlines CSS styles into element style attributes; great for email templates.",
+  "homepage": "https://github.com/kayla-tech/docpad-plugin-cssinliner",
   "license": {
     "type": "MIT"
   },
   "keywords": [
     "docpad",
     "docpad-plugin",
-    "something",
-    "somethingelse"
+    "css",
+    "inliner",
+    "email"
   ],
-  "badges": {
-    "travis": true,
-    "npm": true,
-    "npmdownloads": true,
-    "david": true,
-    "daviddev": true,
-    "gratipay": "docpad",
-    "flattr": "344188/balupton-on-Flattr",
-    "paypal": "QB8GQPZAH84N6",
-    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
-    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
-  },
-  "author": "Copyright holders name <copyright holder's email> (copyright holder's website url)",
+  "author": "Kayla Technologies <sayhi@kayla.com.au> (https://kayla.com.au)",
   "maintainers": [
-    "Your name <your email> (your github url)",
-    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+    "Roger Chapman <rogchap(at)gmail.com> (https://github.com/rogchap)"
   ],
   "contributors": [
-    "balupton (https://github.com/balupton)",
-    "RobLoach (https://github.com/RobLoach)"
   ],
   "bugs": {
-    "url": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname/issues"
+    "url": "https://github.com/kayla-tech/docpad-plugin-cssinliner/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname.git"
+    "url": "https://github.com/kayla-tech/docpad-plugin-cssinliner.git"
   },
   "engines": {
     "node": ">=0.8"
@@ -52,9 +38,9 @@
     "coffee-script": "^1.9.1",
     "projectz": "^0.5.0"
   },
-  "main": "./out/yourpluginname.plugin.js",
+  "main": "./out/cssinliner.plugin.js",
   "scripts": {
-    "test": "node ./out/yourpluginname.test.js"
+    "test": "node ./out/cssinliner.test.js"
   },
   "cakeConfiguration": {
     "COFFEE_SRC_PATH": "src"
