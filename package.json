@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-cssinliner",
-  "version": "2.0.3",
+  "version": "2.0.6",
   "description": "DocPad plugin that inlines CSS styles into element style attributes; great for email templates.",
   "homepage": "https://github.com/kayla-tech/docpad-plugin-cssinliner",
   "license": {
@@ -33,7 +33,9 @@
   "peerDependencies": {
     "docpad": "6"
   },
-  "dependencies": {},
+  "dependencies": {
+    "juice": "^1.3.2"
+  },
   "devDependencies": {
     "docpad": "6",
     "coffee-script": "^1.9.1",
